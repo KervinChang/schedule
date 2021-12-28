@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  icon: MyString
+  is_achieved: false
+  implementation: MyText
+  score: 1
+  award: MyString
+  achieved_at: 2021-12-28 10:37:43
+
+two:
+  title: MyString
+  icon: MyString
+  is_achieved: false
+  implementation: MyText
+  score: 1
+  award: MyString
+  achieved_at: 2021-12-28 10:37:43

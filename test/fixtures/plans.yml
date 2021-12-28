@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week: 1
+  weekday: MyString
+  title: MyString
+  is_executed: false
+
+two:
+  week: 1
+  weekday: MyString
+  title: MyString
+  is_executed: false
